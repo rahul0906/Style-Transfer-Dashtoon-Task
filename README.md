@@ -19,15 +19,18 @@ In the following screenshot you can see that, it has been more than 15,000 secon
 
 ![Screenshot of Ongoing Training](https://github.com/rahul0906/Style-Transfer-Dashtoon-Task/blob/main/Screenshot%20(497).png)
 
+### Another similar project, implemented originally by me (U-NET Architecture): [Image to Sketch Image Translation by UNET Architecture](https://www.kaggle.com/code/squarehare/u-net-image-translation-image2sketch)
+
+
 ## Few Achievements (Also mentioned in Resume):
-**Rank 24 | AISGSLA Visual Localisation Challenge | Jul' 2023**
+**Rank 24 | AISGSLA Visual Localisation Challenge | Jul' 2023** \
 • 24th Worldwide Rank in the International Competition held by AI Singapore and DrivenData for the prediction of camera pose data from 2D Images \
 • Preprocessed more than 12,000 high quality images and used pretrained models like Res-NET and Image-NET to extract features from these images \
 • Used Deep Learning Architecture to process and trainthese extracted features and predict all the camera pose data features using Multi-Regression \
 • Surpassed various benchmark models like Pretrained Droid Slam with my trained FCNN Deep Learning Model and attained a minimal error of 0.2028
 
 
-**Rank 49 | NFT Price Prediction Challenge | Feb' 2023**
+**Rank 49 | NFT Price Prediction Challenge | Feb' 2023** \
 • Secured 49th Worldwide Rank in the International Competition held by BitGrit Platform i.e. NFT Price Prediction Challenge to forecast NFT prices \
 • Preprocessed a huge tabular dataset with around 40 total number of features and trained and ensembled several Machine Learning models \
 • Trained and ensembled models like XG-Boost, LGBM Regressor, FCNN Deep Learning Architecture and Random Forest Regressor, etc \
