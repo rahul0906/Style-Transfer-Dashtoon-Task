@@ -7,7 +7,8 @@
 #### Even with the help of GPU, it (cycleGAN) is taking around an hour for a single epoch, hence final results cannot be presented as cycleGAN requires huge amount of epochs.
 
 ### Note : Due to ongoing placement tests which consume most of our time, it was very difficult to give time to the assignment. So this is my best effort keeping time limitations in mind.
-
+## Content and Style Images:
+![Style and Content Images](https://github.com/rahul0906/Style-Transfer-Dashtoon-Task/blob/main/style_and_content_img.png)
 ## Results:
 ![Mona Lisa with Just Content and Style Loss](https://github.com/rahul0906/Style-Transfer/blob/main/mona_lisa_content_and_style_loss.png)
 ![Mona Lisa with additional variational loss](https://github.com/rahul0906/Style-Transfer/blob/main/mona_lisa_variational_loss.png)
